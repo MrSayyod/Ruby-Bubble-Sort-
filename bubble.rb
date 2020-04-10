@@ -22,7 +22,7 @@ def bubble_sort_by(array)
   while switch
     switch = false
     (n - 1).times do |i|
-      if yield(array[i], array[i + 1]) > 0
+      if yield(array[i], array[i + 1]).positive?
         array[i], array[i + 1] = array[i + 1], array[i]
         switch = true
       end
