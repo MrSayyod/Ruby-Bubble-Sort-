@@ -35,21 +35,21 @@ Feel free to check the issues page.
 
 Authors
 
-👤 Hermela Fikre
+:man_technologist: Hermela Fikre
 
-Email: hermelafikre3@gmail.com
-Github: @Hermela-Fikre
-Twitter: [@Hermela86529600](https://twitter.com/Hermela86529600)
-Linkedin: [hermela-fikre](https://www.linkedin.com/in/hermela-fikre-1a969b156/)
+- Email: hermelafikre3@gmail.com
+- Github: @Hermela-Fikre
+- Twitter: [@Hermela86529600](https://twitter.com/Hermela86529600)
+- Linkedin: [hermela-fikre](https://www.linkedin.com/in/hermela-fikre-1a969b156/)
 
 
-👤 Sayyod Saidov
+:man_technologist: Sayyod Saidov
 
-Email: ssayyod@gmail.com
-Github: [@MrSayyod](https://github.com/MrSayyod) 
-LinkedIn:  [Sayyod Saidov](https://www.linkedin.com/in/sayyod-saidov-507b0818b)
-Twitter: [Sayyod Saidov](https://twitter.com/sayyodsaidov)
-Facebook: [Sayyod Saidov](https://www.facebook.com/sayyod)
+- Email: ssayyod@gmail.com
+- Github: [@MrSayyod](https://github.com/MrSayyod) 
+- LinkedIn:  [Sayyod Saidov](https://www.linkedin.com/in/sayyod-saidov-507b0818b)
+- Twitter: [Sayyod Saidov](https://twitter.com/sayyodsaidov)
+- Facebook: [Sayyod Saidov](https://www.facebook.com/sayyod)
 
 
 
